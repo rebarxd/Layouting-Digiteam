@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Layouting Digiteam</string>
+    <string name="digiteam">DigiTeam</string>
+    <string name="digitogether">Digital Together Everyone Achieve More</string>
+    <string name="digiservice">Jabar Digital Service</string>
+    <string name="name">Dias Eka Fredianto, S.Kom, B.IT</string>
+    <string name="profession">UI Designer</string>
+    <string name="titleTime">Jam Kerja Bulan Ini</string>
+    <string name="descTime">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="time">130.53 JAM</string>
+    <string name="descTime2">Batas Minimum Jam Kerja 170jam/bulan</string>
+    <string name="checkin">Checkin</string>
+    <string name="report_title">Laporan Kamu</string>
+</resources>
